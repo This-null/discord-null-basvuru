@@ -8,8 +8,8 @@ Kullanıcı sunucuya girdiğinde özelden bu şekilde mesaj atar
 Başvuru sorularından örnek.
 ![Adsız](https://user-images.githubusercontent.com/60463845/126894162-84ee77f1-0973-4e0a-95b9-7ff5c7175ecc.png)
 
-# 30 Starda sizlerle 
+# 30 Starda sizlerle.
 
-Discord null#4000 null ✬#1002
+Discord null#4000 null ✬#1002 
 
 
