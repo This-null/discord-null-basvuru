@@ -1,12 +1,10 @@
 # Spanker ile beraber yaptığımız başvuru botudur
+###### Kafanıza göre değiştirip kullanabilirsiniz.
+###### Sorun var denildi kontrol edip gereken işlemleri tekrar yaptım rahatlıkla kullanabilirsiniz.
 
-## Kullanıcı sunucuya girdiğinde özelden bu şekilde mesaj atar
-![Adsız](https://user-images.githubusercontent.com/60463845/126894130-ddc962ae-030e-4510-b634-3a2511986243.png)
-# 60 Starda Sizlerle 💛
-# Başvuru kısmı
-#### Aşşağıda Örnek Verilmiştir.
-![Adsız](https://user-images.githubusercontent.com/60463845/126894162-84ee77f1-0973-4e0a-95b9-7ff5c7175ecc.png)
+<h1 align="center">Discord İletişim <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
 
-#### Discord null#4000 null ✬#1002 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/311625016276025364?hideDiscrim=true)](https://discord.com/users/311625016276025364)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/770307586477522964?hideDiscrim=true)](https://discord.com/users/770307586477522964)
 
 
