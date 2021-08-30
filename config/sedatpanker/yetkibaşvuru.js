@@ -119,7 +119,7 @@ module.exports.run = async (client, message, args) => {
             .setColor("RANDOM")// Null beğendiğin bi renk varsa yaz yarram 
             .setDescription(`Başvuru Soruları:\n**1. ${soru1}\n2. ${soru2}\n3. ${soru3}**\n\n\`Örnek Kullanım:\` __.başvuru İsim Yaş Üstteki soruların cevapları.__`)
             .setTimestamp()
-            .setFooter("Bir Sorun Olursa Spanker#0091 null#4000")
+            .setFooter("SEX YAVRUM")
         );
 
       let data = db.get(`basvuru.${message.author.id}`);
@@ -136,7 +136,7 @@ module.exports.run = async (client, message, args) => {
         db.set(`basvuru.${message.author.id}`, "onayla");
 
         let spankerembedmesaj = message.guild.channels.cache.get(log);
-       // message.channel.send(`${spxnker.yetkilirol} Lütfen gereken işlemi yapınız.`)
+        message.channel.send(`<@&${yetkilirol}> Lütfen gereken işlemi yapınız.`)
         let embedicerik = new Discord.MessageEmbed()
 
           .setTitle("Hey Yeni Bir Başvuru!")

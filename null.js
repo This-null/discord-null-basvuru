@@ -123,8 +123,8 @@ client.on('guildMemberAdd', member => {
 const embed = new Discord.MessageEmbed()
 
 .setTitle("Hey Sunucumuza Hoş Geldin!")
-.setDescription("Sunucumuzda bulunan yapay zekaya sahip başvuru botumuzu denemek istermisin.\n\n Sadece **__Selam__** Yazman yeterli. !!Ufak api sorunlarımız vardır ara sıra cevap vermeyebilir. \n\n Ayrıca sunucumuzda yetkili olmak için herangi bi kanala **__.başvuru__** yazabilirsin.")
-.setFooter("Herangi bi sorunda null#4000")
+.setDescription("Sunucumuzda bulunan yapay zekaya sahip başvuru botumuzu denemek istermisin. \n\n sunucumuzda yetkili olmak için herangi bi kanala **__.başvuru__** yazabilirsin.")
+.setFooter("Herangi bi sorunda null#1002")
 .setColor("ORANGE")
 member.send(embed);
 });
