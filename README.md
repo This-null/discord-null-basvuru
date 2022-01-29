@@ -1,6 +1,6 @@
-# Spanker ile beraber yaptığımız başvuru botudur
-###### Kafanıza göre değiştirip kullanabilirsiniz.
-###### Sorun var denildi kontrol edip gereken işlemleri tekrar yaptım rahatlıkla kullanabilirsiniz.
+# Yeni versiyon 0.0.3
+###### Yakında paylaşırım
+
 
 <h1 align="center">Discord İletişim <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
 
