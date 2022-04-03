@@ -1,9 +1,12 @@
-# Yeni versiyon 0.0.3
-###### Yakında paylaşırım
+# Basit Başvuru
 
 
-<h1 align="center"> Discord <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
+- Soru ve bot hakkında sorunlar için:  `null#1002`
+- Kaynak Sunucusu: https://discord.gg/Nbva6VtYwX
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/769979665224958020?hideDiscrim=true)](https://discord.com/users/769979665224958020)
+```bash
+> Biraz yeni özellik eklendi.
+> Mesajlar ve embed içerikleri değiştirildi.
+```
 
 
