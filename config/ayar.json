@@ -1,0 +1,30 @@
+{
+  "prefix" : ".",
+  "sahip" : [""],
+  "token" : "",
+  "log" : "",
+  "yetkilirol" : "",
+  "taglı":"",
+  "seskanalı" : "",
+
+  "emojiler":{
+    "onayla": "",
+    "reddet": ""
+},
+
+
+  "null": {
+    "roll" : ["", "", ""]
+  },
+
+  "oyun": [
+    "null 💛",
+    "null 💚",
+    ".başvuru",
+    "null 💓",
+    "null 💙",
+    ".başvuru"
+
+    ]
+
+}
